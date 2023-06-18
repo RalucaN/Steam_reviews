@@ -1,0 +1,28 @@
+{
+    "protocol":"https",
+    "host":"store.steampowered.com",
+    "endpoints":[
+        {
+            "path":"/appreviews",
+            "verb":"get",
+            "security":"public",
+            "paramType":"query",
+            "acceptedParams":[
+                "json=1",
+                "filter=recent",
+                "language=english",
+                "day_range=10",
+                "cursor=AoIIPwYYanDTv%2BQB",
+                "review_type=positive",
+                "purchase_type=steam",
+                "num_per_page=50",
+                "filter_offtopic_activity=0"
+            ],
+            "selectedParams":[
+                "json=1",
+                "num_per_page=100",
+		"purchase_type=all"
+            ]
+        }
+    ]
+}

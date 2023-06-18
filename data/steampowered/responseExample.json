@@ -1,0 +1,39 @@
+{
+    "success": 1,
+    "query_summary": {
+        "num_reviews": 10,
+        "review_score": 7,
+        "review_score_desc": "Positive",
+        "total_positive": 34,
+        "total_negative": 4,
+        "total_reviews": 38
+    },
+    "reviews": [
+        {
+            "recommendationid": "139595483",
+            "author": {
+                "steamid": "76561198063998122",
+                "num_games_owned": 145,
+                "num_reviews": 1,
+                "playtime_forever": 0,
+                "playtime_last_two_weeks": 0,
+                "last_played": 0
+            },
+            "language": "english",
+            "review": "Tentacles, cool Eldritch class, edgelord argonian companion... 10/10.",
+            "timestamp_created": 1685978757,
+            "timestamp_updated": 1685978757,
+            "voted_up": true,
+            "votes_up": 35,
+            "votes_funny": 6,
+            "weighted_vote_score": "0.657007694244384766",
+            "comment_count": 0,
+            "steam_purchase": true,
+            "received_for_free": false,
+            "written_during_early_access": false,
+            "hidden_in_steam_china": true,
+            "steam_china_location": ""
+        }
+    ],
+    "cursor": "AoIIPwPX5H3Fw5QE"
+}
