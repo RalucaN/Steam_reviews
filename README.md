@@ -18,7 +18,7 @@ Some sub-questions that this project will explore are:
 
 ## Data Collection and Preparation
 
-The data for this project consists of user reviews from Steam. The data was collected using public API. The data was stored in a file (potential DB). The data was cleaned, preprocessed, and feature engineered. Some of the steps involved in this process are:
+The data for this project consists of user reviews from Steam. The data was collected using public API, using Python requests package. It is stored in a CSV file (potential DB). The data was cleaned, preprocessed, and feature engineered. Some of the steps involved in this process are:
 
 - Remove stopwords, punctuation, and emojis
 - Tokenize and lemmatize the text
