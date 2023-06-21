@@ -61,7 +61,7 @@ Some of the tools and libraries used for this project are:
 - Jupyter notebook or Google Colab for coding
 - GitHub or GitLab for version control
 
-
+## Project graph
 ```mermaid
 graph TB
   A[Start] --> B[Define question]
@@ -103,4 +103,31 @@ graph TB
   G221 --> |random search| G5[Tune model]
   G321 --> |grid search| G5[Tune model]
   G421 --> |random search| G5[Tune model]
-    ```
+```
+## Timeline
+```mermaid
+gantt
+    title Valheim User Reviews Analysis Project Timeline
+    dateFormat YYYY-MM-DD
+    axisFormat %b %d
+    section Define question
+        Define research question and objectives: 2023-06-05, 2023-06-07
+    section Collect data
+        Research API request methods: 2023-06-07, 2023-06-09
+        Research steamreviews Python package: 2023-06-09, 2023-06-10
+        Writing my own API request function: 2023-06-10, 2023-06-16
+        Collect Steam reviews data: 2023-06-16, 2023-06-19
+    section Clean/Prepare data
+        Clean and preprocess data: 2023-06-20, 2023-06-23
+    section Data Exploration
+        EDA, descriptive statistics and visualizations: 2023-06-26, 2023-06-29
+        Perform sentiment analysis on reviews: 2023-06-30, 2023-07-07
+    section Extract features
+        Apply text mining techniques: 2023-07-08, 2023-07-12
+        Extract features from reviews: 2023-07-13, 2023-07-16
+    section Choose technique
+        Choose machine learning technique: 2023-07-17
+        Find relationships or predictions from reviews: 2023-07-18, 2023-07-22
+    section Communicate findings
+        Create summary of results: 2023-07-23, 2023-07-29
+```
