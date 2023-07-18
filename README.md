@@ -120,14 +120,14 @@ gantt
     section Clean/Prepare data
         Clean and preprocess data: 2023-06-20, 2023-06-23
     section Data Exploration
-        EDA, descriptive statistics and visualizations: 2023-06-26, 2023-06-29
-        Perform sentiment analysis on reviews: 2023-06-30, 2023-07-07
+        EDA, descriptive statistics and visualizations: 2023-06-26, 2023-07-22
+        Perform sentiment analysis on reviews: 2023-07-23, 2023-07-30
     section Extract features
-        Apply text mining techniques: 2023-07-08, 2023-07-12
-        Extract features from reviews: 2023-07-13, 2023-07-16
+        Apply text mining techniques: 2023-08-01, 2023-08-12
+        Extract features from reviews: 2023-08-13, 2023-08-16
     section Choose technique
-        Choose machine learning technique: 2023-07-17
-        Find relationships or predictions from reviews: 2023-07-18, 2023-07-22
+        Choose machine learning technique: 2023-08-17
+        Find relationships or predictions from reviews: 2023-08-18, 2023-08-28
     section Communicate findings
-        Create summary of results: 2023-07-23, 2023-07-29
+        Create summary of results: 2023-08-29, 2023-09-10
 ```
