@@ -14,4 +14,4 @@ session = requests.Session()
 
 userData = users.getPlayerSummary(steamKey, userID, session)
 personaname = utils.get_value(userData, ["response", "players", 0, "personaname"])
-utils.writeToFile(response=userData, path="..\\data\\userSummary\\", name=userID, type="w+")
+utils.writeToFile(response=userData, path="..\\Samples\\userSummary\\", name=userID, type="w+")
