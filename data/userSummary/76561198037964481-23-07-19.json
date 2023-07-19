@@ -1,0 +1,26 @@
+{
+    "response": {
+        "players": [
+            {
+                "steamid": "76561198037964481",
+                "communityvisibilitystate": 3,
+                "profilestate": 1,
+                "personaname": "MR BUBZ",
+                "profileurl": "https://steamcommunity.com/profiles/76561198037964481/",
+                "avatar": "https://avatars.steamstatic.com/02824a7f6e98b080c3dafb134741aa49609895c0.jpg",
+                "avatarmedium": "https://avatars.steamstatic.com/02824a7f6e98b080c3dafb134741aa49609895c0_medium.jpg",
+                "avatarfull": "https://avatars.steamstatic.com/02824a7f6e98b080c3dafb134741aa49609895c0_full.jpg",
+                "avatarhash": "02824a7f6e98b080c3dafb134741aa49609895c0",
+                "lastlogoff": 1685302860,
+                "personastate": 0,
+                "realname": "Denes Pop Claudiu",
+                "primaryclanid": "103582791429521408",
+                "timecreated": 1297294316,
+                "personastateflags": 0,
+                "loccountrycode": "RO",
+                "locstatecode": "13",
+                "loccityid": 37347
+            }
+        ]
+    }
+}
