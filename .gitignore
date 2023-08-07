@@ -1,2 +1,3 @@
 __pycache__/
 steamKey.txt
+*/.ipynb_checkpoints/*.ipynb
