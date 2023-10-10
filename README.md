@@ -104,30 +104,3 @@ graph TB
   G321 --> |grid search| G5[Tune model]
   G421 --> |random search| G5[Tune model]
 ```
-## Timeline
-```mermaid
-gantt
-    title Valheim User Reviews Analysis Project Timeline
-    dateFormat YYYY-MM-DD
-    axisFormat %b %d
-    section Define question
-        Define research question and objectives: 2023-06-05, 2023-06-07
-    section Collect data
-        Research API request methods: 2023-06-07, 2023-06-09
-        Research steamreviews Python package: 2023-06-09, 2023-06-10
-        Writing my own API request function: 2023-06-10, 2023-06-16
-        Collect Steam reviews data: 2023-06-16, 2023-06-19
-    section Clean/Prepare data
-        Clean and preprocess data: 2023-06-20, 2023-06-23
-    section Data Exploration
-        EDA, descriptive statistics and visualizations: 2023-06-26, 2023-07-22
-        Perform sentiment analysis on reviews: 2023-07-23, 2023-07-30
-    section Extract features
-        Apply text mining techniques: 2023-08-01, 2023-08-12
-        Extract features from reviews: 2023-08-13, 2023-08-16
-    section Choose technique
-        Choose machine learning technique: 2023-08-17
-        Find relationships or predictions from reviews: 2023-08-18, 2023-08-28
-    section Communicate findings
-        Create summary of results: 2023-08-29, 2023-09-10
-```
